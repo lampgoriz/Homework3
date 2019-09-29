@@ -1,0 +1,98 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+a.menu{
+    font-size: 19px;
+
+    margin-left: 98px;
+    padding-top: 200px;
+}
+ul.menu li{
+    display: inline;
+    
+}
+ul.menu{
+    margin-right: 100px;
+    margin-left: 740;
+    word-spacing: 32px;
+}
+div.menu{
+    background-image: url(img/Layer%201.png);
+    color: white;
+    background-size: cover;
+    height: 738px;
+    width: 1366;
+}
+
+.title{
+    padding-top: 50px;
+    text-align: center;
+}
+.Big_title{
+    word-spacing: 22px;
+    letter-spacing: 10px;
+}
+.little_title{
+    word-spacing: 14px;
+    letter-spacing: 6px;
+}
+.work_img{
+    display: inline;
+}
+.work_footer{
+    background-image: url(img/Layer%2085.png);
+    background-size: cover;
+    height: 113px;
+    width: 1366px;
+}
+.skills{
+    margin-right: 10%;
+    word-spacing: 30px;
+}
+.team_quotes{
+    background-image: url(img/Layer%204.png);
+    height: 350px;
+    color: white;
+}
+.team_text{
+    padding-top: 40px;
+}
+.team_inf{
+    display: flex;
+}
+.portfolio_menu{
+    padding-top: 30px;
+}
+.portfolio_gallery{
+    padding-top: 30px;
+}
+.team_img{
+    height: 360px;
+    margin-bottom: 50px;
+    padding-left: 10%;
+}
+.team_dat{
+    padding-left: 20%;
+}
+.team_footer{
+    background-image: url(img/Layer%20104.png);
+    background-size: cover;
+    
+    color: white;
+}
+.Contact{
+    padding-top: 50px;    
+}
+.testim{
+    display: flex;
+    padding-top: 5%
+}
+.blog{
+    background-image: url(img/Layer%20441.png);
+    height: 600px;
+    color: white;
+}
+.contact_button{
+    margin: auto;
+}
